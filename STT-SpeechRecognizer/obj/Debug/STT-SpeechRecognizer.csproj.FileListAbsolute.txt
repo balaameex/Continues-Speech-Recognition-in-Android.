@@ -1,0 +1,15 @@
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\bin\Debug\STT-SpeechRecognizer.dll
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\bin\Debug\STT-SpeechRecognizer.pdb
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\bin\Debug\STT_SpeechRecognizer.STT_SpeechRecognizer.apk
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\bin\Debug\STT_SpeechRecognizer.STT_SpeechRecognizer-Signed.apk
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\STT-SpeechRecognizer.csprojResolveAssemblyReference.cache
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\STT-SpeechRecognizer.dll
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\STT-SpeechRecognizer.pdb
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\android\bin\STT_SpeechRecognizer.STT_SpeechRecognizer.apk
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\res\layout\main.xml
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\res\values\strings.xml
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\res\drawable\icon.png
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\R.cs.flag
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\uploadflags.txt
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\obj\Debug\STT-SpeechRecognizer.dll.mdb
+C:\Sample Projects\POC\STT-SpeechRecognizer\STT-SpeechRecognizer\bin\Debug\STT-SpeechRecognizer.dll.mdb

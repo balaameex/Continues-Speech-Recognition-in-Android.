@@ -1,0 +1,2 @@
+android.app.Application
+STT_SpeechRecognizer.STT_SpeechRecognizer

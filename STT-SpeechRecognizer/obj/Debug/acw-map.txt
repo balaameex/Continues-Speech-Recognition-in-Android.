@@ -1,0 +1,4 @@
+STT_SpeechRecognizer.MainActivity, STT-SpeechRecognizer;md53589941c50ba3815889a72f048e65a45.MainActivity
+STT_SpeechRecognizer.MainActivity, STT-SpeechRecognizer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md53589941c50ba3815889a72f048e65a45.MainActivity
+STT_SpeechRecognizer.MainActivity;md53589941c50ba3815889a72f048e65a45.MainActivity
+stt_speechrecognizer.MainActivity;md53589941c50ba3815889a72f048e65a45.MainActivity
